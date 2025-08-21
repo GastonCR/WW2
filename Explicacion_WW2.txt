@@ -1,0 +1,8 @@
+PROYECTO WWII OFFLINE — RESUMEN
+1) Dataset incluido (10 países): bajas (rango y punto medio), población 1939/1945, PIB pc (1990 intl $ aprox.), producción de aviones y tanques 1939–1945.
+2) EDA: tasas de bajas por 1000, relaciones con capacidad industrial y PIB pc, gráficos comparativos.
+3) Modelos didácticos: 
+   - Regresión (explicar muertes por 1000).
+   - Clasificación (alta vs baja mortalidad per cápita) con Leave-One-Out.
+4) Exportables: CSV enriquecido en data/processed.
+5) Límites: cifras sujetas a debate histórico; usar para aprendizaje/portfolio. Para trabajos formales, cite y verifique fuentes exactas.
